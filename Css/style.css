@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    background-color: rgb(0, 0, 0);
+}
+#content{
+    width: 100%;
+    margin: 0% ;
+    
+
+}
+.left {
+    width: 20%;
+    float: left;
+    background-color: #d8d5d2;
+    height: 1000px;
+   margin-left: 10%;
+}
+
+.left .img{
+   position:absolute
+   top: 30%;
+   left:  15%;
+   width: 180%;
+   height: 180%;
+   border-radius: 100%;
+   overflow: hidden;
+}
+.left .img{
+    width: 180px;
+    height: 180px;
+}
+.rigth {
+    width:60%;
+    float: right ;
+    background-color: #ffffff;
+    height: 1000px;
+ margin-right: 10%;to;
+}
